@@ -1,0 +1,56 @@
+id,code,correct_address_if_wrong,source_url,note
+A01,VERIFIED,,https://211la.org/agencies/HxLveEn0WIP1xy2KF3kdx74sAamXWv/interfaith-food-center,211LA lists 11819 Burke St
+A02,WRONG_ADDRESS,"1414 S Atlantic Blvd, Los Angeles, CA 90022",https://directory.plentiful.org/california/los-angeles/door-of-hope-community-center-5819b156,No evidence of anything at 1200 W Mines
+A03,VERIFIED,,https://www.salvationarmyusa.org/ca/whittier/,Official locator
+A04,VERIFIED,,https://maof.org/maof-food-bank/,Official site
+A05,VERIFIED,,https://directory.plentiful.org/california/montebello/heart-of-compassion-28f5e1b2,Plentiful lists 600 S Maple Ave
+A06,VERIFIED,,https://feedam.org/pantry-report/2314,Pantry directory
+A07,VERIFIED,,https://storelocators.com/store-lists/food4less/california,Third-party store list
+A08,UNCLEAR,,https://directory.plentiful.org/california/lancaster/el-lirio-s-pantry-4272d35b,Pantry exists; no street address published
+A09,VERIFIED,,https://locator.lacounty.gov/lac/Location/3173936/grace-resources-inc,LA County locator
+A10,NOT_FOUND,,https://databayou.com/stores/winco.html,No evidence of a WinCo store in Lancaster
+A11,WRONG_NAME,,https://www.giftly.com/gift-card/la-bodega-ranch-market-harbor-city,Address belongs to La Bodega Ranch Market
+A12,VERIFIED,,https://storelocators.com/store-lists/food4less/california,Third-party store list
+A13,VERIFIED_PLACE_ONLY,,https://letsvolunteerla.org/listing-item/san-pedro-peninsula-ymca-3/,YMCA real; weekly food distribution not confirmed
+A14,VERIFIED,,https://storelocators.com/store-lists/food4less/california,Third-party store list
+A15,UNCLEAR,,https://www.supermarketnews.com/top-50-small-chains-amp-independents/el-super,Lynwood El Super address not confirmed
+A16,VERIFIED,,https://directory.plentiful.org/california/lynwood/shields-for-families-lynwood-dd3486af,Distributes Thursdays
+A17,VERIFIED,,https://directory.plentiful.org/california/lynwood/shields-for-families-lynwood-dd3486af,Same as A16
+A18,VERIFIED,,https://www.mallscenters.com/weekly-ads/jons-fresh-marketplace/jons-fresh-marketplace-1601-n-vermont-ave-los-angeles-ca-90027-from-july-29-to-august-4-2026,2026 weekly ads
+A19,VERIFIED,,https://www.storeopeninghours.com/vons-sunset-blvd-and-vrgil-ave-los-angeles-ca,Vons Sunset & Virgil
+A20,VERIFIED,,https://www.ubereats.com/store/albertsons-2035-hillhurst-ave/zCrrUp8xVBmaXqSTckCt6Q,Active delivery listing
+A21,VERIFIED_PLACE_ONLY,,https://www.ymcala.org/locations/anderson-munger-family-ymca,YMCA real; no food program listed
+A22,VERIFIED,,https://storelocators.com/store-lists/food4less/california,Third-party store list
+A23,VERIFIED,,https://feedam.org/pantry-report/182210,Pantry at 933 S Hoover
+A24,VERIFIED,,https://storelocators.com/store-lists/food4less/california,Third-party store list
+A25,VERIFIED_PLACE_ONLY,,https://www.1degree.org/opp/get-free-educational-resources-el-centro-de-ayuda-los-angeles-ca,Address matches; no food services listed
+A26,VERIFIED,,https://dhs.lacounty.gov/our-services/resources/food/,LA County DHS monthly distribution
+A27,VERIFIED,,https://locator.lacounty.gov/lac/Location/3174013/salvation-army-corps-community-center---east-los-angeles-temple,LA County locator
+A28,VERIFIED,,https://www.mallscenters.com/brands/aldi/california/aldi-1550-w-redondo-beach-blvd--gardena--city,ALDI store page
+A29,VERIFIED,,https://storelocators.com/store-lists/food4less/california,1299 W Artesia Blvd
+A30,VERIFIED,,https://feedam.org/pantry-report/199863,Food Net - Asian Service Center
+A31,WRONG_ADDRESS,"16113 S Denker Ave, Gardena, CA 90247",https://www.elcamino.edu/student/studentservices/warriorpantry/docs/Alternate_Food_Pantries.pdf,Street is Denker not La Salle
+A32,WRONG_ADDRESS,"22261 Fenkell Ave, Detroit, MI 48223",https://directory.plentiful.org/michigan/brightmoor,Pantry listed at 22261 Fenkell (nearby)
+A33,VERIFIED,,https://www.foodhelpline.org/resources/brightmoor-connection,Lemontree/Plentiful
+A34,VERIFIED,,https://directory.plentiful.org/michigan/port-huron,Bluewater Food Depot
+A35,VERIFIED,,https://www.michigan.org/property/ph-country-style-marketplace,Also on 2026 Double Up list
+A36,VERIFIED,,https://en.wikipedia.org/wiki/Blue_Water_Area_Transit,Transit agency HQ
+A37,VERIFIED,,https://www.needhelppayingbills.com/html/st__clair_county_salvation_army_assistance_pr.html,Port Huron Corps
+A38,VERIFIED,,https://directory.plentiful.org/michigan/port-huron,Same as A34
+A39,VERIFIED,,https://stores.aldi.us/mi/westland/707-s-wayne-rd,Official ALDI page
+A40,UNCLEAR,,https://www.fox2detroit.com/video/1750876,Blessing box exists; address unconfirmed
+A41,UNCLEAR,,https://www.gcfb.org/gleaners-opening-market-style-store-for-those-in-need-of-food-assistance/,On 8 Mile in Warren; number unconfirmed
+A42,VERIFIED,,https://feedam.org/pantry-report/7491,Pantry directory
+A43,VERIFIED,,https://www.mallscenters.com/brands/aldi/michigan/aldi-29475-mound-rd--warren--city,ALDI (bot did not name it)
+A44,VERIFIED,,https://www.needhelppayingbills.com/html/macomb_county_food_pantries.html,New Life Assembly of God
+A45,VERIFIED,,https://directory.plentiful.org/michigan/roseville,DRMM-Lighthouse Outreach
+A46,VERIFIED,,https://doubleupfoodbucks.org/wp-content/uploads/2026/03/Double-Up-Food-Bucks_Double-Up-Card-Locations_20260312.pdf,March 2026 Double Up list
+A47,UNCLEAR,,https://localwiki.org/detroit/Pick_N_Save_Market,Address matches; current operation unconfirmed
+A48,VERIFIED,,https://www.foodhelpline.org/resources/deo-gratias-ministries-detroit-1,Lemontree
+A49,WRONG_ADDRESS,"16322 W Warren Ave, Detroit, MI 48228",https://www.producemarketguide.com/company/575584/papaya-produce-and-groceries,Listed as Papaya Produce at 16322
+A50,VERIFIED,,https://www.guidestar.org/profile/47-1957040,Registered office; pantry on Fenkell
+A51,VERIFIED,,https://www.storeopeninghours.com/aldi-highland-park-mi,Third-party listing
+A52,WRONG_NAME,,https://www.detroitcatholic.com/news/all-saints-soup-kitchen-reopens-in-former-st-andrews-gym-on-detroits-west-side,10301 Woodward is a different pantry (Mercy)
+A53,VERIFIED,,https://www.waynehealthcares.org/events/2024-05-07/,2024 source
+A54,VERIFIED,,https://directory.plentiful.org/michigan/college-park,Plentiful food pantry listing
+A55,VERIFIED,,https://feedam.org/pantry-report/7622,Grandale pantry at 11325 Montrose

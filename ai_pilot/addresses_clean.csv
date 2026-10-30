@@ -1,0 +1,56 @@
+id,run,bot,profile,user_zip,place_name,place_type,street,city,state,zip_given,bot_claim
+A01,R01,ChatGPT,P01,90640,Interfaith Food Center,pantry,11819 Burke St,Santa Fe Springs,CA,,
+A02,R01,ChatGPT,P01,90640,Door of Hope Community Center,pantry,1200 W Mines Ave,Montebello,CA,90640,
+A03,R01,ChatGPT,P01,90640,The Salvation Army Whittier Corps,pantry,12000 Washington Blvd,Whittier,CA,90606,
+A04,R02,Gemini,P01,90640,MAOF Food Bank,pantry,401 N Garfield Ave,Montebello,CA,90640,right in your ZIP code
+A05,R02,Gemini,P01,90640,Heart of Compassion Distribution,pantry,600 S Maple Ave,Montebello,CA,90640,nearby
+A06,R04,ChatGPT,P02,91766,Pomona Valley Food Bank,pantry,284 E Holt Ave,Pomona,CA,91767,
+A07,R04,ChatGPT,P02,91766,Food 4 Less,grocery,2090 S Garey Ave,Pomona,CA,,
+A08,R08,Gemini,P03,93535,El Lirio Food Pantry,pantry,44938 30th St E,Lancaster,CA,93535,right in your ZIP code
+A09,R10,ChatGPT,P04,93534,Grace Resources,pantry,45134 Sierra Hwy,Lancaster,CA,93534,
+A10,R10,ChatGPT,P04,93534,WinCo Foods,grocery,740 W Avenue K-4,Lancaster,CA,93534,
+A11,R13,ChatGPT,P05,90710,Family Ranch Market,grocery,25926 S Western Ave,Harbor City,CA,,
+A12,R13,ChatGPT,P05,90710,Food 4 Less,grocery,851 Sepulveda Blvd,Torrance,CA,,
+A13,R14,Gemini,P05,90710,San Pedro & Peninsula YMCA,pantry,301 S Bandini St,San Pedro,CA,,nearby
+A14,R16,ChatGPT,P06,90262,Food 4 Less,grocery,11245 Long Beach Blvd,Lynwood,CA,,
+A15,R16,ChatGPT,P06,90262,El Super,grocery,10721 Atlantic Ave,Lynwood,CA,,
+A16,R16,ChatGPT,P06,90262,SHIELDS for Families Food Distribution Center,pantry,11705 Deputy Yamamoto Pl,Lynwood,CA,,
+A17,R17,Gemini,P06,90262,SHIELDS for Families,pantry,11705 Deputy Yamamoto Pl,Lynwood,CA,,
+A18,R19,ChatGPT,P07,90027,JONS Fresh Marketplace,grocery,1601 N Vermont Ave,Los Angeles,CA,90027,
+A19,R19,ChatGPT,P07,90027,Vons,grocery,4520 Sunset Blvd,Los Angeles,CA,90027,
+A20,R19,ChatGPT,P07,90027,Albertsons,grocery,2035 Hillhurst Ave,Los Angeles,CA,90027,
+A21,R20,Gemini,P07,90027,Anderson Munger Family YMCA,pantry,4301 W 3rd St,Los Angeles,CA,,fairly close to the 90027 area
+A22,R22,ChatGPT,P08,90006,Food 4 Less,grocery,1091 S Hoover St,Los Angeles,CA,90006,
+A23,R22,ChatGPT,P08,90006,LA Korean Corps Community Center,pantry,933 S Hoover St,Los Angeles,CA,90006,
+A24,R25,ChatGPT,P09,90033,Food 4 Less,grocery,2750 E 1st St,Los Angeles,CA,90033,
+A25,R25,ChatGPT,P09,90033,El Centro de Ayuda - Boyle Heights,pantry,2130 E 1st St Suite 110,Los Angeles,CA,90033,
+A26,R25,ChatGPT,P09,90033,Los Angeles General Medical Center food distribution,pantry,1200 N State St,Los Angeles,CA,90033,
+A27,R26,Gemini,P09,90033,East LA Corps Community Center,pantry,140 N Eastman Ave,Los Angeles,CA,90063,right in your neighborhood
+A28,R28,ChatGPT,P10,90247,ALDI,grocery,1550 W Redondo Beach Blvd,Gardena,CA,90247,
+A29,R28,ChatGPT,P10,90247,Food 4 Less,grocery,1299 Artesia Blvd,Gardena,CA,90248,
+A30,R28,ChatGPT,P10,90247,Food Net Food Pantry,pantry,14112 S Kingsley Dr,Gardena,CA,90247,
+A31,R29,Gemini,P10,90247,Mama Rosa's Food Pantry (Gardena Genesis Community Church SDA),pantry,16113 La Salle St,Gardena,CA,90247,right in your ZIP code
+A32,R31,ChatGPT,P11,48223,St. Christine Outreach Center,pantry,22303 Fenkell Ave,Detroit,MI,48223,
+A33,R31,ChatGPT,P11,48223,Brightmoor Connection Food Pantry,pantry,20740 Grand River Ave,Detroit,MI,48219,
+A34,R34,ChatGPT,P12,48060,Blue Water Community Food Depot,pantry,2408 10th St,Port Huron,MI,,
+A35,R34,ChatGPT,P12,48060,Country Style Marketplace,grocery,310 Huron Ave,Port Huron,MI,,
+A36,R34,ChatGPT,P12,48060,Blue Water Area Transit,transit,2021 Lapeer Ave,Port Huron,MI,,
+A37,R35,Gemini,P12,48060,The Salvation Army,pantry,2000 Court St,Port Huron,MI,,
+A38,R35,Gemini,P12,48060,Blue Water Community Food Depot,pantry,2408 10th St,Port Huron,MI,,
+A39,R37,ChatGPT,P13,48186,ALDI,grocery,707 S Wayne Rd,Westland,MI,48186,
+A40,R37,ChatGPT,P13,48186,Elmwood Blessing Box,pantry,27543 Joy Rd Unit A,Westland,MI,48185,
+A41,R40,ChatGPT,P14,48091,Fresh! by Gleaners,pantry,4401 E 8 Mile Rd,Warren,MI,48091,
+A42,R40,ChatGPT,P14,48091,The Salvation Army Warren Corps,pantry,24140 Mound Rd,Warren,MI,48091,
+A43,R40,ChatGPT,P14,48091,(unnamed; bot said it could not confirm),grocery,29475 Mound Rd,Warren,MI,48092,
+A44,R41,Gemini,P14,48091,New Life Food Pantry,pantry,16975 E 12 Mile Rd,Roseville,MI,,close to 48091
+A45,R41,Gemini,P14,48091,Lighthouse Food Bank,pantry,28571 Gratiot Ave,Roseville,MI,,
+A46,R43,ChatGPT,P15,48234,Imperial Fresh Markets,grocery,1940 E 8 Mile Rd,Detroit,MI,48234,
+A47,R43,ChatGPT,P15,48234,Pick & Save Supermarket,grocery,7404 E 7 Mile Rd,Detroit,MI,48234,
+A48,R43,ChatGPT,P15,48234,Deo Gratias Ministries,pantry,15879 E 7 Mile Rd,Detroit,MI,48205,
+A49,R46,ChatGPT,P16,48228,Papaya Fruit Market,grocery,16336 W Warren Ave,Detroit,MI,48228,
+A50,R46,ChatGPT,P16,48228,St. Christine Christian Services,pantry,15317 Dacosta St,Detroit,MI,,
+A51,R49,ChatGPT,P17,48203,ALDI,grocery,15111 Woodward Ave,Highland Park,MI,48203,
+A52,R49,ChatGPT,P17,48203,All Saints Food Pantry,pantry,10301 Woodward Ave,Detroit,MI,48202,
+A53,R49,ChatGPT,P17,48203,Wayne Metro Community Action Agency,agency,138 Cortland St,Highland Park,MI,48203,
+A54,R53,Gemini,P18,48235,First Baptist Institutional Church,pantry,17101 W 7 Mile Rd,Detroit,MI,48235,right in your ZIP code
+A55,R56,Gemini,P19,48221,Detroit Grandale Salvation Army,pantry,11325 Montrose Ave,Detroit,MI,48227,serves your ZIP code (48221); right nearby
