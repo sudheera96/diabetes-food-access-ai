@@ -4,17 +4,17 @@ Code and data for the preprint:
 
 > Chitipolu SS. *Before AI tells patients what to eat, it needs to know where they live: a cross-sectional ecological study of diabetes and food access in California and Michigan census tracts, with a spotlight on Metro Detroit and Metro Los Angeles.* medRxiv, 2026 [link to be added].
 
-Author: Sri Sudheera Chitipolu, PhD Candidate in AI, University of the Cumberlands · ORCID [0009-0006-9665-6195](https://orcid.org/0009-0006-9665-6195)
+Author: Sri Sudheera Chitipolu, Independent Researcher, United States · ORCID [0009-0006-9665-6195](https://orcid.org/0009-0006-9665-6195)
 
 ## What is in this repository
 
 | Folder | Contents |
 |---|---|
 | `notebooks/01_double_burden.ipynb` | Aims 1 and 2: builds the tract dataset, double-burden counts, regression and spatial models, hidden food deserts, Figures 1–2 |
-| `notebooks/02_ai_pilot.ipynb` | Aim 3: re-runs the AI-pilot scoring, Table 3, test, Figures 3–4, address check |
+| `notebooks/02_ai_pilot.ipynb` | Aim 3: re-runs the AI-pilot scoring, Table 4, test, Figures 3–4, address check, and the USDA SNAP retailer check (section 6) |
 | `data/clean/` | Tract-level analysis files (11,974 California and Michigan tracts) and the 20 AI-pilot tracts |
 | `data/raw/` | Empty — see `data/raw/README.md` for download links to the public source files |
-| `ai_pilot/` | The 60 chatbot answers (`P2_AI_Pilot_Answers.docx`), profiles and food-to-store table (`P2_AI_Pilot_Audit.xlsx`), scoring script (`score_pilot.py`), scores, address check files and the full scoring log (`SCORING_LOG.md`) |
+| `ai_pilot/` | The 60 chatbot answers (`P2_AI_Pilot_Answers.docx`), profiles and food-to-store table (`P2_AI_Pilot_Audit.xlsx`), scoring script (`score_pilot.py`), scores, address check files, SNAP retailer match (`snap_match.py`, `addresses_final_with_snap.csv`) and the full scoring log (`SCORING_LOG.md`) |
 | `figures/` | Figures 1–4 as used in the paper |
 
 ## How to reproduce
@@ -27,7 +27,7 @@ jupyter lab
 ```
 1. Download the raw files listed in `data/raw/README.md` into `data/raw/`.
 2. Run `notebooks/01_double_burden.ipynb` (Run All).
-3. Run `notebooks/02_ai_pilot.ipynb` (Run All); it should print `scored 60`.
+3. Run `notebooks/02_ai_pilot.ipynb` (Run All); it should print `scored 60`, and section 6 should print `Grocery stores named: 20 | found in SNAP list at that address: 20 | an active SNAP store at that address: 20` and `Verified 45 of 55 (82%) | problems 7 (13%) | unclear 3`.
 
 Versions used: Python 3.11.18, pandas 3.1.0, NumPy 2.4.6, SciPy 1.17.1, statsmodels 0.15.0, geopandas 1.2.0, libpysal 4.14.1, esda 2.9.0, spreg 1.9.0, matplotlib 3.11.2.
 
@@ -39,7 +39,12 @@ Versions used: Python 3.11.18, pandas 3.1.0, NumPy 2.4.6, SciPy 1.17.1, statsmod
 ## Notes
 - Chatbot answers were collected on October 28 and 30, 2026; chatbot outputs change over time.
 - The food-to-store table is an assumption about what store types usually sell, not a shelf audit.
+- Address check: Census geocoder, web listings, a 5-place hand check, and (for grocery stores) the USDA FNS SNAP Retailer Locator list. All 20 grocery stores named were active SNAP stores at the stated address; all 7 clear errors were food pantries or community programs.
 - No human participants or private data were used.
 
+## Versions
+- v1.0 (Nov 2026): first release.
+- v1.1 (Nov 2, 2026): adds the USDA SNAP retailer check (`ai_pilot/snap_match.py`, notebook 02 section 6), updated address codes (45/55 verified), table numbering matching the paper (AI pilot = Table 4), and author affiliation.
+
 ## License
-Code: MIT License. Data and text files created for this study: CC BY 4.0. Source data belong to their public providers (CDC, USDA ERS, US Census Bureau, OMB).
+Code: MIT License. Data and text files created for this study: CC BY 4.0. Source data belong to their public providers (CDC, USDA ERS, USDA FNS, US Census Bureau, OMB).
