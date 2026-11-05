@@ -2,9 +2,11 @@
 
 Code and data for the preprint:
 
-> Chitipolu SS. *Before AI tells patients what to eat, it needs to know where they live: a cross-sectional ecological study of diabetes and food access in California and Michigan census tracts, with a spotlight on Metro Detroit and Metro Los Angeles.* medRxiv, 2026 [link to be added].
+> Chitipolu SS. *Before AI tells patients what to eat, it needs to know where they live: a cross-sectional ecological study of diabetes and food access in California and Michigan census tracts, with a spotlight on Metro Detroit and Metro Los Angeles.* medRxiv, 2026 doi:[10.64898/2026.11.03.26367208](https://doi.org/10.64898/2026.11.03.26367208).
 
 Author: Sri Sudheera Chitipolu, PhD student in Information Technology (Artificial Intelligence specialty), School of Computer and Information Sciences, University of the Cumberlands, Williamsburg, Kentucky, USA · ORCID [0009-0006-9665-6195](https://orcid.org/0009-0006-9665-6195)
+
+**Code and data archive:** Zenodo v1.1, doi:[10.5281/zenodo.23889080](https://doi.org/10.5281/zenodo.23889080)
 
 ## What is in this repository
 
