@@ -1,5 +1,0 @@
-Rule,Mean,Min,Max,ChatGPT,Claude,Gemini,Check
-B_main (Y only; maybe = not buyable),0.704,0.55,0.857,0.669,0.685,0.76, (max diff vs scores.csv: 0.0000)
-B_maybe_buyable (Y or Maybe = buyable),1.0,1.0,1.0,1.0,1.0,1.0,
-B_small_grocery_present (Y at small grocery only),0.641,0.5,0.786,0.612,0.625,0.685,
-B_convenience_dollar_only (no small grocery),0.504,0.389,0.667,0.451,0.476,0.586,
