@@ -1,0 +1,121 @@
+metro,GEOID,Store Name,Store Type,Street Number,Street Name,City,auth,earlier_record_same_address,first_snap_record_at_address
+Metro Detroit,26093725101,VG's 1920,Super Store,2400,W Grand River Ave,Howell,2025-09-18,True,1983-11-07
+Metro Detroit,26099261700,Al-Aqsa Supermarket  ,Large Grocery Store,30800,Hoover Rd,Warren,2025-03-17,True,1989-03-22
+Metro Detroit,26099222103,ALDI 67037,Supermarket,50700,Waterside Dr,Chesterfield,2020-10-20,False,2020-10-20
+Metro Detroit,26099222104,ALDI 67037,Supermarket,50700,Waterside Dr,Chesterfield,2020-10-20,False,2020-10-20
+Metro Detroit,26099256500,ALDI 67104,Supermarket,25671,Gratiot Ave,Roseville,2021-10-19,False,2021-10-19
+Metro Detroit,26099258400,ALDI 67104,Supermarket,25671,Gratiot Ave,Roseville,2021-10-19,False,2021-10-19
+Metro Detroit,26099256400,ALDI 67104,Supermarket,25671,Gratiot Ave,Roseville,2021-10-19,False,2021-10-19
+Metro Detroit,26099247100,BJ's Wholesale Club 385,Super Store,45101,Towne Center Blvd,Chesterfield,2020-06-23,False,2020-06-23
+Metro Detroit,26099240000,BJ's Wholesale Club 385,Super Store,45101,Towne Center Blvd,Chesterfield,2020-06-23,False,2020-06-23
+Metro Detroit,26099268100,Cattleman's East Inc. 2,Super Store,25225,Van Dyke Ave,Center Line,2020-11-19,True,2009-05-05
+Metro Detroit,26099263400,Cattleman's East Inc. 2,Super Store,25225,Van Dyke Ave,Center Line,2020-11-19,True,2009-05-05
+Metro Detroit,26099262500,Cattleman's East Inc. 2,Super Store,25225,Van Dyke Ave,Center Line,2020-11-19,True,2009-05-05
+Metro Detroit,26099230800,Dream Market  ,Supermarket,40832,Ryan Rd,Sterling Heights,2019-08-06,True,1997-05-14
+Metro Detroit,26099245400,Farmers Market  ,Large Grocery Store,37685,S Gratiot Ave,Clinton Township,2021-07-28,True,1978-10-13
+Metro Detroit,26099240802,Farmers Market  ,Large Grocery Store,37685,S Gratiot Ave,Clinton Township,2021-07-28,True,1978-10-13
+Metro Detroit,26099230800,Kroger 757,Super Store,2051,18 Mile Rd,Sterling Heights,2019-11-06,False,2019-11-06
+Metro Detroit,26099256500,"Mario's Meats, Inc. 1",Supermarket,19172,E 10 Mile Rd,Eastpointe,2025-01-31,True,1971-11-02
+Metro Detroit,26099258400,"Mario's Meats, Inc. 1",Supermarket,19172,E 10 Mile Rd,Eastpointe,2025-01-31,True,1971-11-02
+Metro Detroit,26099256400,"Mario's Meats, Inc. 1",Supermarket,19172,E 10 Mile Rd,Eastpointe,2025-01-31,True,1971-11-02
+Metro Detroit,26099255300,Oakridge Supermarket  ,Super Store,31240,Groesbeck Hwy,Fraser,2023-09-20,True,1983-05-05
+Metro Detroit,26099258400,Shoppers Market Plus  ,Super Store,14350,E 9 Mile Rd,Warren,2020-05-21,True,1986-08-21
+Metro Detroit,26099258700,Shoppers Market Plus  ,Super Store,14350,E 9 Mile Rd,Warren,2020-05-21,True,1986-08-21
+Metro Detroit,26099268100,Shoppers Supermarket ,Supermarket,22800,Van Dyke Ave,Warren,2023-10-18,True,1974-03-06
+Metro Detroit,26099263400,Shoppers Supermarket ,Supermarket,22800,Van Dyke Ave,Warren,2023-10-18,True,1974-03-06
+Metro Detroit,26099263700,Shoppers Supermarket ,Supermarket,22800,Van Dyke Ave,Warren,2023-10-18,True,1974-03-06
+Metro Detroit,26099245400,Value Center Market  ,Super Store,37155,Harper Ave,Clinton Township,2020-01-25,True,2008-07-18
+Metro Detroit,26099262800,Value Fresh Marketplace  ,Super Store,24800,Hoover Rd,Warren,2019-02-28,True,1996-06-10
+Metro Detroit,26125141500,Carnival Market Inc  ,Super Store,1101,E Walton Blvd,Pontiac,2024-05-16,True,2007-10-09
+Metro Detroit,26125140303,Carnival Market Inc  ,Super Store,1101,E Walton Blvd,Pontiac,2024-05-16,True,2007-10-09
+Metro Detroit,26125140900,Family Foods Marketplace  ,Supermarket,1116,W Huron St,Waterford,2025-01-23,True,2000-07-11
+Metro Detroit,26125141500,Pike Food Center  ,Large Grocery Store,465,E Pike St,Pontiac,2023-08-28,True,1985-02-01
+Metro Detroit,26125140900,Save-a-lot 60045,Supermarket,1249,Baldwin Ave,Pontiac,2020-12-08,True,1994-08-16
+Metro Detroit,26125141100,Save-a-lot 60045,Supermarket,1249,Baldwin Ave,Pontiac,2020-12-08,True,1994-08-16
+Metro Detroit,26147621000,Ph Country Style Market ,Supermarket,310,Huron Ave,Port Huron,2022-04-25,False,2022-04-25
+Metro Detroit,26147626001,Ph Country Style Market ,Supermarket,310,Huron Ave,Port Huron,2022-04-25,False,2022-04-25
+Metro Detroit,26147624000,Ph Country Style Market ,Supermarket,310,Huron Ave,Port Huron,2022-04-25,False,2022-04-25
+Metro Detroit,26147620000,Ph Country Style Market ,Supermarket,310,Huron Ave,Port Huron,2022-04-25,False,2022-04-25
+Metro Detroit,26147625001,Ph Country Style Market ,Supermarket,310,Huron Ave,Port Huron,2022-04-25,False,2022-04-25
+Metro Detroit,26147621000,Save A Lot  ,Large Grocery Store,657,24th St,Port Huron,2024-06-17,True,1998-05-13
+Metro Detroit,26147636000,Save A Lot  ,Large Grocery Store,657,24th St,Port Huron,2024-06-17,True,1998-05-13
+Metro Detroit,26163578600,ALDI 67105,Supermarket,23035,Outer Dr,Allen Park,2021-08-26,False,2021-08-26
+Metro Detroit,26163572900,ALDI 67105,Supermarket,23035,Outer Dr,Allen Park,2021-08-26,False,2021-08-26
+Metro Detroit,26163572800,ALDI 67105,Supermarket,23035,Outer Dr,Allen Park,2021-08-26,False,2021-08-26
+Metro Detroit,26163584400,ALDI 67149,Supermarket,23351,Eureka Rd,Taylor,2025-11-26,True,2013-04-15
+Metro Detroit,26163584700,ALDI 67149,Supermarket,23351,Eureka Rd,Taylor,2025-11-26,True,2013-04-15
+Metro Detroit,26163591501,ALDI 67149,Supermarket,23351,Eureka Rd,Taylor,2025-11-26,True,2013-04-15
+Metro Detroit,26163524600,Arabian Village Market  ,Supermarket,10040,Dix,Dearborn,2019-06-21,True,1981-04-30
+Metro Detroit,26163584700,BJ's Wholesale Club 384,Super Store,15523,Racho Blvd,Taylor,2019-11-01,False,2019-11-01
+Metro Detroit,26163591501,BJ's Wholesale Club 384,Super Store,15523,Racho Blvd,Taylor,2019-11-01,False,2019-11-01
+Metro Detroit,26163572900,Daily Fresh Supermarket One,Large Grocery Store,22080,Outer Dr,Dearborn,2022-06-23,False,2022-06-23
+Metro Detroit,26163572800,Daily Fresh Supermarket One,Large Grocery Store,22080,Outer Dr,Dearborn,2022-06-23,False,2022-06-23
+Metro Detroit,26163570100,Dearborn Fresh Supermarket 2,Super Store,26811,Ford Rd,Dearborn Heights,2020-07-20,False,2020-07-20
+Metro Detroit,26163570400,Everfresh Fruit Market Ii  ,Supermarket,29447,Ford Rd,Garden City,2025-12-03,True,2004-04-15
+Metro Detroit,26163578500,Everfresh Fruit Market III LLC  ,Supermarket,3365,Greenfield Rd,Dearborn,2025-06-30,True,2012-11-21
+Metro Detroit,26163554400,Family Foods Redford Inc  ,Supermarket,25850,Grand River Ave,Redford,2025-02-27,True,2004-12-06
+Metro Detroit,26163572400,Food Max Market  ,Supermarket,27333,Cherry Hill Rd,Inkster,2024-02-02,True,1991-10-08
+Metro Detroit,26163570400,Food Max Market  ,Supermarket,27333,Cherry Hill Rd,Inkster,2024-02-02,True,1991-10-08
+Metro Detroit,26163570100,Food Max Market  ,Supermarket,27333,Cherry Hill Rd,Inkster,2024-02-02,True,1991-10-08
+Metro Detroit,26163566700,Fresh Choice  ,Super Store,35400,E Michigan Ave,Wayne,2024-12-10,True,2004-03-17
+Metro Detroit,26163566800,Fresh Choice  ,Super Store,35400,E Michigan Ave,Wayne,2024-12-10,True,2004-03-17
+Metro Detroit,26163585600,Fresh Choice  ,Super Store,35400,E Michigan Ave,Wayne,2024-12-10,True,2004-03-17
+Metro Detroit,26163570400,Garden Fresh Of Inkster Llc  ,Super Store,30215,Cherry Hill Rd,Inkster,2025-04-16,True,2000-02-24
+Metro Detroit,26163524800,O'Briens Supermarket  ,Supermarket,185,Southfield Rd,Ecorse,2021-01-07,True,1974-12-12
+Metro Detroit,26163566800,"Palace 4 Supermarket, Inc  ",Supermarket,1942,S Venoy Rd,Westland,2023-02-24,True,1988-11-15
+Metro Detroit,26163564900,Palm Market  ,Large Grocery Store,4151,S Canton Center Rd,Canton,2025-03-17,True,2008-01-01
+Metro Detroit,26163506600,Pick & Save Supermarket  ,Super Store,7404,E 7 Mile Rd,Detroit,2022-11-01,True,1999-01-13
+Metro Detroit,26163506500,Pick & Save Supermarket  ,Super Store,7404,E 7 Mile Rd,Detroit,2022-11-01,True,1999-01-13
+Metro Detroit,26163506700,Pick & Save Supermarket  ,Super Store,7404,E 7 Mile Rd,Detroit,2022-11-01,True,1999-01-13
+Metro Detroit,26163546201,"Prince Valley #2, Inc  ",Super Store,9291,Telegraph Rd,Redford,2019-03-28,False,2019-03-28
+Metro Detroit,26163507000,Royal Fresh Market 4,Supermarket,2819,E 7 Mile Rd,Detroit,2023-08-02,True,2002-12-30
+Metro Detroit,26163506600,Royal Fresh Market 4,Supermarket,2819,E 7 Mile Rd,Detroit,2023-08-02,True,2002-12-30
+Metro Detroit,26163578600,Royal International Foods 1,Supermarket,18340,Allen Rd,Melvindale,2025-05-19,True,2000-10-12
+Metro Detroit,26163578500,Royal International Foods 1,Supermarket,18340,Allen Rd,Melvindale,2025-05-19,True,2000-10-12
+Metro Detroit,26163578600,Save-a-lot 60046,Supermarket,1716,Fort St,Lincoln Park,2020-12-08,True,2016-01-06
+Metro Detroit,26163524800,Save-a-lot 60046,Supermarket,1716,Fort St,Lincoln Park,2020-12-08,True,2016-01-06
+Metro Detroit,26163578000,Shoppers Valley Market  ,Large Grocery Store,750,Biddle Ave,Wyandotte,2023-11-27,True,1995-08-25
+Metro Detroit,26163543700,Sugar Market  ,Super Store,20427,Plymouth Rd,Detroit,2023-06-28,True,2007-09-18
+Metro Detroit,26163543700,Superland Market  ,Supermarket,17015,Schoolcraft St,Detroit,2024-06-28,False,2024-06-28
+Metro Detroit,26163524600,Vernor Food Center  ,Supermarket,8801,W Vernor Hwy,Detroit,2023-11-16,True,1987-06-08
+Metro Los Angeles,06037409000,ALDI 79,Supermarket,21555,Valley Blvd,Walnut,2020-02-12,False,2020-02-12
+Metro Los Angeles,06037400605,Azusa Grocery Outlet 301,Supermarket,355,N Citrus Ave,Azusa,2022-02-04,True,2009-01-05
+Metro Los Angeles,06037434100,Carniceria Las Glorias  ,Large Grocery Store,1954,Central Ave,South El Monte,2021-05-14,True,2019-12-02
+Metro Los Angeles,06037400605,Carniceria Las Glorias 2 2,Large Grocery Store,632,E Foothill Blvd,Azusa,2024-08-12,True,2004-06-29
+Metro Los Angeles,06037532304,CCM Market  ,Large Grocery Store,6046,E Washington Blvd,Commerce,2024-04-02,False,2024-04-02
+Metro Los Angeles,06037532303,CCM Market  ,Large Grocery Store,6046,E Washington Blvd,Commerce,2024-04-02,False,2024-04-02
+Metro Los Angeles,06037532304,El Super 68,Supermarket,7102,Eastern Ave,Bell Gardens,2024-06-21,False,2024-06-21
+Metro Los Angeles,06037408140,Garden Fresh Farmer's Market 1,Super Store,18041,Gale Ave,City of Industry,2021-06-11,False,2021-06-11
+Metro Los Angeles,06037541003,Gardena Supermarket  ,Supermarket,1012,W Gardena Blvd,Gardena,2019-12-27,True,2002-06-03
+Metro Los Angeles,06037910602,Gonzalez Meat Market  ,Supermarket,3020,E Palmdale Blvd,Palmdale,2020-06-19,False,2020-06-19
+Metro Los Angeles,06037910605,Gonzalez Meat Market  ,Supermarket,3020,E Palmdale Blvd,Palmdale,2020-06-19,False,2020-06-19
+Metro Los Angeles,06037910601,Gonzalez Meat Market  ,Supermarket,3020,E Palmdale Blvd,Palmdale,2020-06-19,False,2020-06-19
+Metro Los Angeles,06037405002,Grocery Outlet Baldwin Park 311,Supermarket,4249,Maine Ave,Baldwin Park,2022-10-13,True,2016-07-06
+Metro Los Angeles,06037541003,Grocery Outlet Of Compton Ca 304,Supermarket,2175,W Rosecrans Ave,Compton,2025-07-17,True,2008-01-09
+Metro Los Angeles,06037293304,Grocery Outlet Of Lomita 559,Super Store,2155,Pacific Coast Hwy,Lomita,2024-05-20,True,2014-03-10
+Metro Los Angeles,06037293307,Grocery Outlet Of Lomita 559,Super Store,2155,Pacific Coast Hwy,Lomita,2024-05-20,True,2014-03-10
+Metro Los Angeles,06037980015,Grocery Outlet Of Lomita 559,Super Store,2155,Pacific Coast Hwy,Lomita,2024-05-20,True,2014-03-10
+Metro Los Angeles,06037405002,Los Compadres Ranch Market  ,Large Grocery Store,4801,Maine Ave,Baldwin Park,2024-06-28,True,2005-02-10
+Metro Los Angeles,06037402804,Mercado La Cachanilla 1,Supermarket,615,W Mission Blvd,Pomona,2023-09-26,True,2003-06-02
+Metro Los Angeles,06037409000,Mercado La Cachanilla 1,Supermarket,615,W Mission Blvd,Pomona,2023-09-26,True,2003-06-02
+Metro Los Angeles,06037106405,Orchard's Neighborhood Market  ,Super Store,13221,Gladstone Ave,Sylmar,2023-03-17,False,2023-03-17
+Metro Los Angeles,06037434100,Peck Market  ,Large Grocery Store,2645,Peck Rd,El Monte,2024-12-26,True,2000-07-13
+Metro Los Angeles,06037408140,Sf Supermarket  ,Super Store,3650,S Nogales St,West Covina,2022-08-22,True,2009-06-03
+Metro Los Angeles,06037121222,Sunland Produce  ,Super Store,8840,Glenoaks Blvd,Sun Valley,2020-01-02,True,1990-11-16
+Metro Los Angeles,06037121102,Sunland Produce  ,Super Store,8840,Glenoaks Blvd,Sun Valley,2020-01-02,True,1990-11-16
+Metro Los Angeles,06037122200,Sunland Produce  ,Super Store,8840,Glenoaks Blvd,Sun Valley,2020-01-02,True,1990-11-16
+Metro Los Angeles,06037231500,Super Mercado Latino Market  ,Supermarket,1049,W Martin Luther King Jr Blvd,Los Angeles,2019-09-30,True,2006-07-26
+Metro Los Angeles,06037532302,Superior Grocers 319,Supermarket,4831,Whittier Blvd,Los Angeles,2020-02-25,True,1999-01-08
+Metro Los Angeles,06037532303,Superior Grocers 319,Supermarket,4831,Whittier Blvd,Los Angeles,2020-02-25,True,1999-01-08
+Metro Los Angeles,06037434100,Superior Grocers 315,Supermarket,9900,Garvey Ave,El Monte,2020-02-25,True,2002-09-26
+Metro Los Angeles,06037293304,Target Store T3451,Super Store,2130,Pacific Coast Hwy,Lomita,2024-06-25,True,1990-07-17
+Metro Los Angeles,06037293307,Target Store T3451,Super Store,2130,Pacific Coast Hwy,Lomita,2024-06-25,True,1990-07-17
+Metro Los Angeles,06037980015,Target Store T3451,Super Store,2130,Pacific Coast Hwy,Lomita,2024-06-25,True,1990-07-17
+Metro Los Angeles,06037115104,Trader Joe's Northridge 312,Supermarket,9224,Reseda Blvd,Northridge,2024-10-10,False,2024-10-10
+Metro Los Angeles,06037115104,Vallarta Supermarkets 5,Super Store,8453,Reseda Blvd,Northridge,2023-08-24,True,2001-10-17
+Metro Los Angeles,06037121102,Vallarta Supermarkets 18,Supermarket,10175,San Fernando Rd,Pacoima,2023-08-29,True,2004-08-31
+Metro Los Angeles,06037532302,Vallarta Supermarkets 25,Supermarket,3425,Whittier Blvd,Los Angeles,2023-09-06,True,2003-10-31
+Metro Los Angeles,06037235201,Vallarta Supermarkets 64,Supermarket,3300,W Slauson Ave,Los Angeles,2025-03-20,True,2004-06-02
+Metro Los Angeles,06037235202,Vallarta Supermarkets 64,Supermarket,3300,W Slauson Ave,Los Angeles,2025-03-20,True,2004-06-02
+Metro Los Angeles,06059110603,La Bodega Ranch Market  ,Large Grocery Store,2434,W Orangethorpe Ave,Fullerton,2020-05-13,True,2004-07-26
+Metro Los Angeles,06059001801,La Bodega Ranch Market  ,Large Grocery Store,2434,W Orangethorpe Ave,Fullerton,2020-05-13,True,2004-07-26

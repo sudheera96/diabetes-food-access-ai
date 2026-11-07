@@ -1,0 +1,12 @@
+Model,Term,Coef,SE,CI_low,CI_high,p
+OLS (HC1 robust SE),Intercept,11.5585,0.077,11.4075,11.7095,0.0
+OLS (HC1 robust SE),C(area)[T.Urban],-0.9756,0.0744,-1.1214,-0.8297,0.0
+OLS (HC1 robust SE),C(state)[T.Michigan],0.6876,0.0798,0.5311,0.8441,0.0
+OLS (HC1 robust SE),lila_1_10,1.4971,0.2743,0.9595,2.0347,0.0
+OLS (HC1 robust SE),pct_no_vehicle,0.1261,0.0076,0.1111,0.141,0.0
+"Spatial lag, S2SLS (White robust SE)",Intercept,7.9791,0.8046,6.4021,9.556,0.0
+"Spatial lag, S2SLS (White robust SE)",lila_1_10,1.2199,0.2488,0.7323,1.7076,0.0
+"Spatial lag, S2SLS (White robust SE)",pct_no_vehicle,0.1041,0.0089,0.0866,0.1216,0.0
+"Spatial lag, S2SLS (White robust SE)",area_Urban,-0.753,0.0854,-0.9205,-0.5856,0.0
+"Spatial lag, S2SLS (White robust SE)",state_Michigan,0.4651,0.0804,0.3076,0.6226,0.0
+"Spatial lag, S2SLS (White robust SE)","rho (W_diab, neighbours)",0.3045,0.0685,0.1702,0.4387,0.0

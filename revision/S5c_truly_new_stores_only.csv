@@ -1,0 +1,5 @@
+Metro,Tracts,n,Truly new large store <=1 mi of edge,Remaining (edge rule),Adults w/ diabetes remaining (edge),Truly new large store <=1 mi of centroid,Remaining (centroid rule),Adults w/ diabetes remaining (centroid),Truly new large stores in metro area checked
+Metro Detroit,All hidden,97,21,76,25866,5,92,31488,562
+Metro Detroit,High-diabetes hidden,51,11,40,15285,3,48,18725,562
+Metro Los Angeles,All hidden,60,10,50,23269,7,53,24702,562
+Metro Los Angeles,High-diabetes hidden,30,6,24,12533,5,25,12951,562
