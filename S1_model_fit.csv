@@ -1,0 +1,13 @@
+,value
+OLS_n,11959
+OLS_R2,0.125
+OLS_adjR2,0.1247
+OLS_AIC,61290.6
+Moran_I_resid,0.642
+Moran_p_sim,0.001
+Spatial_n,11959
+Spatial_pseudoR2,0.49
+Spatial_pseudoR2_e,0.1252
+Islands_in_W,1
+Mean_neighbours,6.3
+Instruments,"spatially lagged X (W*X), first-order (w_lags=1)"
