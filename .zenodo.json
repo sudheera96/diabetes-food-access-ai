@@ -1,0 +1,31 @@
+{
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Chitipolu, Sri Sudheera",
+      "affiliation": "University of the Cumberlands",
+      "orcid": "0009-0006-9665-6195"
+    }
+  ],
+  "license": "MIT",
+  "related_identifiers": [
+    {
+      "identifier": "10.64898/2026.11.03.26367208",
+      "relation": "isSupplementedBy",
+      "resource_type": "publication-preprint",
+      "scheme": "doi"
+    }
+  ],
+  "keywords": [
+    "diabetes",
+    "food access",
+    "food deserts",
+    "census tracts",
+    "SNAP",
+    "large language models",
+    "AI chatbots",
+    "nutrition advice",
+    "California",
+    "Michigan"
+  ]
+}

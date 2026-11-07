@@ -6,7 +6,7 @@ Code and data for the preprint:
 
 Author: Sri Sudheera Chitipolu, PhD student in Information Technology (Artificial Intelligence specialty), School of Computer and Information Sciences, University of the Cumberlands, Williamsburg, Kentucky, USA · ORCID [0009-0006-9665-6195](https://orcid.org/0009-0006-9665-6195)
 
-**Code and data archive:** Zenodo v1.1, doi:[10.5281/zenodo.23889080](https://doi.org/10.5281/zenodo.23889080)
+**Code and data archive (Zenodo):** all versions, doi:[10.5281/zenodo.23819997](https://doi.org/10.5281/zenodo.23819997) (always resolves to the latest version). Version DOIs: v1.0 [10.5281/zenodo.23819998](https://doi.org/10.5281/zenodo.23819998) · v1.1 [10.5281/zenodo.23889080](https://doi.org/10.5281/zenodo.23889080) · v1.2 [10.5281/zenodo.24025873](https://doi.org/10.5281/zenodo.24025873) (journal revision)
 
 ## What is in this repository
 
